@@ -3,9 +3,9 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 # App title
-st.set_page_config(page_title="🤗💬 HugChat - JULY CHAT BOT")
+st.set_page_config(page_title="🤗💬 HugChat")
 
-st.write('Hello! I am July!')
+# st.write('Hello! I am July!')
 
 # Hugging Face Credentials
 with st.sidebar:
